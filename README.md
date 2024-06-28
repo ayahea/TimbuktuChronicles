@@ -7,3 +7,5 @@ This digital humanities research project aims to explore two of the longest and 
 We aim to make these texts, or certain passages from them, more accessible. Some possible integrations include geo-tagging, named-entity recognition, improved Arabic OCR for the texts, and others.
 
 Learn more about how this was used in scholarship at Tufts University [here](https://sites.tufts.edu/perseusupdates/2022/04/01/course-on-arabic-sources-by-west-african-scholars-about-the-mali-and-songhai-empires-digital-humanities-and-a-new-model-of-classical-studies-at-tufts/).
+
+## [A more detailed description and summary of the project and its conclusions can be found here]([url](https://github.com/ayahea/TimbuktuChronicles/blob/master/project_summary_%26_conclusions.pdf)).
