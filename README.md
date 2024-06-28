@@ -8,4 +8,4 @@ We aim to make these texts, or certain passages from them, more accessible. Some
 
 Learn more about how this was used in scholarship at Tufts University [here](https://sites.tufts.edu/perseusupdates/2022/04/01/course-on-arabic-sources-by-west-african-scholars-about-the-mali-and-songhai-empires-digital-humanities-and-a-new-model-of-classical-studies-at-tufts/).
 
-## [A more detailed description and summary of the project and its conclusions can be found here]([url](https://github.com/ayahea/TimbuktuChronicles/blob/master/project_summary_%26_conclusions.pdf)).
+<b>A more detailed description and summary of the project and its conclusions can be found [here](https://github.com/ayahea/TimbuktuChronicles/blob/master/project_summary_%26_conclusions.pdf).</b>
